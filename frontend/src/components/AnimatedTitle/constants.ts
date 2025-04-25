@@ -1,6 +1,6 @@
 export const CAROUSEL_TITLE = [
-  "Mateo .",
-  "SrRiuz .",
+  "Luis.",
+  "English Expert .",
   "Software dev.",
   "Back-End dev.",
   "Front-End dev.",
